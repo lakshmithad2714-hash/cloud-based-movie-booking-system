@@ -1,0 +1,45 @@
+.booking-history{
+  max-width:1000px;
+  margin:40px auto;
+  padding:0 20px;
+}
+
+.booking-history h1{
+  color:#0f1724;
+  margin-bottom:30px;
+}
+
+.bookings-list{
+  display:grid;
+  gap:20px;
+}
+
+.booking-card{
+  background:#fff;
+  border:1px solid #ddd;
+  border-radius:8px;
+  padding:20px;
+  box-shadow:0 2px 8px rgba(0,0,0,0.1);
+}
+
+.booking-card h3{
+  margin-top:0;
+  color:#ef4444;
+}
+
+.booking-card p{
+  margin:8px 0;
+  color:#666;
+}
+
+.booking-card strong{
+  color:#0f1724;
+}
+
+.status{
+  background:#dcfce7;
+  color:#166534;
+  padding:4px 8px;
+  border-radius:4px;
+  font-weight:600;
+}
