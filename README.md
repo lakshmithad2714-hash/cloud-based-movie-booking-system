@@ -369,6 +369,38 @@ This is an educational project. Feel free to:
 - Optimize database queries
 
 ---
+---
+
+## 📸 Application Screenshots
+
+<p align="center">
+  <img src="images/image1.png.png" width="45%"/>
+  <img src="images/image2.png.png" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="images/image3.png.png" width="45%"/>
+  <img src="images/image4.png.png" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="images/image5.png.png" width="45%"/>
+  <img src="images/image6.png.png" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="images/image7.png.png" width="45%"/>
+  <img src="images/image8.png.png" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="images/image9.png.png" width="45%"/>
+  <img src="images/image10.png.png" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="images/image11.png.png" width="45%"/>
+</p>
 
 ## 📄 License
 
