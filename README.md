@@ -418,4 +418,3 @@ MIT License - Free to use and modify
 
 ---
 
-**Built with ❤️ for Cloud Computing Learning**
